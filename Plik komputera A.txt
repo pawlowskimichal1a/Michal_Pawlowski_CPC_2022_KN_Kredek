@@ -1,3 +1,4 @@
 To jest plik komputera A
 
 Zmiana 1 w pliku A
+Zmiana 2 w pliku A
